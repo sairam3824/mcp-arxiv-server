@@ -1,0 +1,21 @@
+How to run mcp-arxiv-server from terminal
+=========================================
+
+1) Go to the project directory
+cd "/Users/sairammaruri/Documents/New git projects/mcp-arxiv-server"
+
+2) Install dependencies
+npm install
+
+3) Build TypeScript
+npm run build
+
+4) Start the MCP server
+npm start
+
+Expected output:
+arXiv MCP Server running on stdio
+
+Optional:
+- Run tests: npm test
+- Watch mode during development: npm run dev
