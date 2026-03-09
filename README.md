@@ -294,7 +294,7 @@ Common categories you can search:
 
 ## License
 
-Apache License 2.0
+MIT License
 
 ## Contributing
 
